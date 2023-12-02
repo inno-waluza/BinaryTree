@@ -1,0 +1,28 @@
+C:\Users\hp\Desktop\C#\Assinment1\bin\Debug\net8.0\Assinment1.exe
+C:\Users\hp\Desktop\C#\Assinment1\bin\Debug\net8.0\Assinment1.deps.json
+C:\Users\hp\Desktop\C#\Assinment1\bin\Debug\net8.0\Assinment1.runtimeconfig.json
+C:\Users\hp\Desktop\C#\Assinment1\bin\Debug\net8.0\Assinment1.dll
+C:\Users\hp\Desktop\C#\Assinment1\bin\Debug\net8.0\Assinment1.pdb
+C:\Users\hp\Desktop\C#\Assinment1\obj\Debug\net8.0\Assinment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\Assinment1\obj\Debug\net8.0\Assinment1.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\Assinment1\obj\Debug\net8.0\Assinment1.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\Assinment1\obj\Debug\net8.0\Assinment1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\Assinment1\obj\Debug\net8.0\Assinment1.dll
+C:\Users\hp\Desktop\C#\Assinment1\obj\Debug\net8.0\refint\Assinment1.dll
+C:\Users\hp\Desktop\C#\Assinment1\obj\Debug\net8.0\Assinment1.pdb
+C:\Users\hp\Desktop\C#\Assinment1\obj\Debug\net8.0\Assinment1.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\Assinment1\obj\Debug\net8.0\ref\Assinment1.dll
+C:\Users\hp\Desktop\C#\Innocent bsc-com-ne-12-20\bin\Debug\net8.0\Assinment1.exe
+C:\Users\hp\Desktop\C#\Innocent bsc-com-ne-12-20\bin\Debug\net8.0\Assinment1.deps.json
+C:\Users\hp\Desktop\C#\Innocent bsc-com-ne-12-20\bin\Debug\net8.0\Assinment1.runtimeconfig.json
+C:\Users\hp\Desktop\C#\Innocent bsc-com-ne-12-20\bin\Debug\net8.0\Assinment1.dll
+C:\Users\hp\Desktop\C#\Innocent bsc-com-ne-12-20\bin\Debug\net8.0\Assinment1.pdb
+C:\Users\hp\Desktop\C#\Innocent bsc-com-ne-12-20\obj\Debug\net8.0\Assinment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\Innocent bsc-com-ne-12-20\obj\Debug\net8.0\Assinment1.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\Innocent bsc-com-ne-12-20\obj\Debug\net8.0\Assinment1.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\Innocent bsc-com-ne-12-20\obj\Debug\net8.0\Assinment1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\Innocent bsc-com-ne-12-20\obj\Debug\net8.0\Assinment1.dll
+C:\Users\hp\Desktop\C#\Innocent bsc-com-ne-12-20\obj\Debug\net8.0\refint\Assinment1.dll
+C:\Users\hp\Desktop\C#\Innocent bsc-com-ne-12-20\obj\Debug\net8.0\Assinment1.pdb
+C:\Users\hp\Desktop\C#\Innocent bsc-com-ne-12-20\obj\Debug\net8.0\Assinment1.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\Innocent bsc-com-ne-12-20\obj\Debug\net8.0\ref\Assinment1.dll
