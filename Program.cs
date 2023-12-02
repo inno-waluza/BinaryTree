@@ -79,6 +79,7 @@
                                         if (int.TryParse(Console.ReadLine(), out int removeValue))
                                         {
                                             tree.RemoveWithDetails(removeValue);
+                                            Console.WriteLine("You have removed " + removeValue);
                                         }
                                         else
                                         {
@@ -101,7 +102,7 @@
                             Console.WriteLine();
                         }
                     case 2:
-                        // Exiting the program
+                        // Exiting the program wrong input
                         Console.WriteLine("Exiting the program...");
                         return;
                     default:
